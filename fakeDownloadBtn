@@ -1,0 +1,28 @@
+<svg
+  width="200"
+  height="60"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 200 60"
+  onclick='alert("작동이 되겠나요")'
+>
+  <rect
+    x="0"
+    y="0"
+    width="200"
+    height="60"
+    rx="10"
+    ry="10"
+    fill="#4CAF50"
+  />
+  <text
+    x="50%"
+    y="50%"
+    alignment-baseline="middle"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-size="20"
+    font-family="Arial"
+  >
+    다운로드
+  </text>
+</svg>
